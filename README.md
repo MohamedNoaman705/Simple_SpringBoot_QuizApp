@@ -18,9 +18,6 @@ Spring Boot Quiz API with JPA, DTOs, Lombok, and REST endpoints for random categ
 - Lombok
 - H2 / MySQL / PostgreSQL (configure as needed)
 
-## 📦 API Endpoints (example)
-> Update these to match your actual controllers.
-
 ### Create Quiz
 `POST /quiz/create`
 
