@@ -12,7 +12,7 @@ Spring Boot Quiz API with JPA, DTOs, Lombok, and REST endpoints for random categ
 - RESTful API using `ResponseEntity`
 
 ## 🛠️ Tech Stack
-- Java 17+ (or your version)
+- Java 26
 - Spring Boot
 - Spring Data JPA
 - Lombok
